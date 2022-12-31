@@ -1,0 +1,4 @@
+baseURL = 'http://kaj.arno.fi/'
+languageCode = 'sv-fi'
+title = 'Kaj Arnö på webben'
+theme = 'ananke'
