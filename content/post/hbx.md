@@ -9,7 +9,7 @@ tags:
   - "feminism"
   - "foss"
   - "indonesien"
-coverImage: "hbx.jpg"
+images: ["/images/hbx.jpg"]
 ---
 
 MariaDB i Indonesien: En medeltida och modern audiens i Yogyakarta, hos konungen av Java

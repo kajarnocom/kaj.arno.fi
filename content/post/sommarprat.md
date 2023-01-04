@@ -5,9 +5,10 @@ categories:
   - "filosofi"
   - "mariadb"
   - "mysql"
+  - "it"
 tags: 
   - "sommarprat"
-coverImage: "Sommarprat_Yle-lank-dator.png"
+images: ["/images/Sommarprat_Yle-lank-dator.png"]
 ---
 
 ![](images/Sommarprat_Yle-lank-dator-parm-733x800.png)

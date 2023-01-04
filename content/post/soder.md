@@ -9,7 +9,7 @@ categories:
 tags: 
   - "csu"
   - "munchen"
-coverImage: "soder.jpg"
+images: ["/images/soder.jpg"]
 ---
 
 Habeck mot Söder i nästa Bundestagswahl? En realistisk vision. Absolut inget mardrömsscenario!

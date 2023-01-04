@@ -1,6 +1,134 @@
 baseURL = 'http://kaj.arno.fi/'
 languageCode = 'sv-fi'
-title = 'Kaj Arnö på webben'
-theme = 'ananke'
+title = 'Kaj Arnö &#8211; IT-företagare. Idrottshedonist. Fritänkare.'
+theme = 'hugo-xmag'
+buildDrafts = false
+paginate = 100
+
 [permalinks]
   post = '/:filename/'
+  categories = "/:title/"
+
+[params]
+  description = "Kaj Arnö - IT-företagare. Idrottshedonist. Fritänkare."
+  images = ['/cropped-2018-05-21_IMG_7781-6.jpg']
+  footer = "&copy; Kaj Arnö 2022 | [Twitter](https://twitter.com/kajarno) | [Facebook](https://facebook.com/kajarno) | [LinkedIn](https://linkedin.com/in/kajarno) | [Instagram](https://instagram.com/kajarno)"
+  summary_length = 300
+  favicon = "/favicon.jpeg"
+
+[menu]
+
+  [[menu.main]]
+  name = 'Kaj Arnö'
+  url = '/'
+  identifier = 'kaj-arno'
+  weight = 1
+
+  [[menu.main]]
+  name = 'IT'
+  url = '/it/'
+  identifier = 'it'
+  weight = 2
+
+    [[menu.main]]
+    name = 'MariaDB'
+    url = '/mariadb/'
+    identifier = 'mariadb'
+    parent = 'it'
+    weight = 1
+
+    [[menu.main]]
+    name = 'MySQL'
+    url = '/mysql/'
+    identifier = 'mysql'
+    parent = 'it'
+    weight = 2
+
+    [[menu.main]]
+    name = 'Medier'
+    url = '/medier/'
+    identifier = 'medier'
+    parent = 'it'
+    weight = 3
+
+  [[menu.main]]
+  name = 'Idrottshedonism'
+  url = '/idrottshedonism/'
+  identifier = 'idrottshedonism'
+  weight = 3
+
+    [[menu.main]]
+    name = 'Springa'
+    url = '/springa/'
+    identifier = 'springa'
+    parent = 'idrottshedonism'
+    weight = 1
+
+    [[menu.main]]
+    name = 'Paddla'
+    url = '/paddla/'
+    identifier = 'paddla'
+    parent = 'idrottshedonism'
+    weight = 2
+
+    [[menu.main]]
+    name = 'Yoga'
+    url = '/yoga/'
+    identifier = 'yoga'
+    parent = 'idrottshedonism'
+    weight = 3
+
+  [[menu.main]]
+  name = 'Fritanke'
+  url = '/fritanke/'
+  identifier = 'fritanke'
+  weight = 4
+
+    [[menu.main]]
+    name = 'Projekt Fredrika'
+    url = '/projekt-fredrika/'
+    identifier = 'projekt-fredrika'
+    parent = 'fritanke'
+    weight = 1
+
+    [[menu.main]]
+    name = 'Nagu'
+    url = '/nagu/'
+    identifier = 'nagu'
+    parent = 'fritanke'
+    weight = 2
+
+    [[menu.main]]
+    name = 'Tyskland'
+    url = '/tyskland/'
+    identifier = 'tyskland'
+    parent = 'fritanke'
+    weight = 3
+
+    [[menu.main]]
+    name = 'München'
+    url = '/munchen/'
+    identifier = 'munchen'
+    parent = 'fritanke'
+    weight = 4
+
+    [[menu.main]]
+    name = 'Politik'
+    url = '/politik/'
+    identifier = 'politik'
+    parent = 'fritanke'
+    weight = 5
+
+    [[menu.main]]
+    name = 'Musik'
+    url = '/musik/'
+    identifier = 'musik'
+    parent = 'fritanke'
+    weight = 6
+
+    [[menu.main]]
+    name = 'Frihet'
+    url = '/frihet/'
+    identifier = 'frihet'
+    parent = 'fritanke'
+    weight = 7

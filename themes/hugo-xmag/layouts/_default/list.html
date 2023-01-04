@@ -1,0 +1,36 @@
+{{ partial "header.html" . }}
+<div class="container">
+<main class="list">
+{{ $pages := .Pages }}
+{{ if .IsHome }}{{ $pages = .Site.RegularPages }}{{ end }}
+{{ $paginator := .Paginate (where $pages "Section" "!=" "") }}
+{{ range $paginator.Pages }}
+<section class="article-list">
+  <div class="categories">
+  {{ with .Params.categories }}{{ range first 1 . }}<a href="{{ relURL (print "/" . | urlize) }}">{{ . }}</a>{{ end }}
+  {{ else }}<a>{{ default "Uncategorized" .Site.Params.text.uncategorized }}</a>{{ end }}
+  </div>
+  <h1><a href="{{ .RelPermalink }}">{{ .Title }}</a></h1>
+  <div class="summary">
+    <a href="{{ .RelPermalink }}">
+{{ with .Params.images }}
+  {{ with index . 0 }}
+    {{ with resources.Get . }}
+    {{ $image := .Fill "130x80 Top" }}
+    <div class="thumbnail"><img src="{{ $image.RelPermalink }}" width="{{ $image.Width }}" height="{{ $image.Height }}" alt=""></div>
+    {{ else }} <!-- no img found -->{{ end }}{{ end }}
+{{else}}<!-- no img in parameter -->{{ end }}
+{{ with .Description }}
+     {{ $.Scratch.Set "summary" (markdownify .) }}
+  {{ else }}
+    {{ $.Scratch.Set "summary" ((delimit (findRE "(<p.*?>(.|\n)*?</p>\\s*)+" .Content) "[&hellip;] ") | plainify | truncate (default 200 .Site.Params.summary_length) (default " &hellip;" .Site.Params.text.truncated ) | replaceRE "&amp;" "&" | safeHTML) }}
+  {{ end }}
+  {{ $.Scratch.Get "summary" }}
+    </a>
+  </div>
+</section>
+{{ end }}
+</main>
+
+</div>
+{{ partial "footer.html" . }}

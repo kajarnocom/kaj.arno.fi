@@ -4,7 +4,7 @@ date: "2017-03-25"
 categories: 
   - "fritanke"
   - "varlden"
-coverImage: "burma.jpg"
+images: ["/images/burma.jpg"]
 ---
 
 Ballonger, buddhister, munkar och samvaro far-och-dotter

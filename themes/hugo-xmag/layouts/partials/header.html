@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode }}">
+  <head>
+    <meta charset="utf-8">
+    {{ template "_internal/opengraph.html" . }}
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    {{ with .Site.Params.title }}<title>{{ . }}</title>{{ end }}
+    <link rel="stylesheet" href="{{ "css/style.css" | relURL }}" />
+    <link rel="stylesheet" href="{{ "css/fonts.css" | relURL }}" />
+    
+  </head>
+
+  <body{{if .IsPage}} class="page"{{ end }}>
+    
+    <nav class="header">
+          <div class="banner">
+            <div class="wrapper">
+              <div class="imgwrapper">
+                <a href="/"><img width="160px" src="/cropped-Kaj_arno_rod_genomsk-1.png"></a>
+              </div>
+              <div class="titlewrapper">
+                <span class="titlemain"><a href="/">Kaj Arnö</a></span><br>
+                <span class="subtitlemain"><a href="/">IT-företagare. Idrottshedonist. Fritänkare.</a></span>
+              </div>
+            </div>
+          </div>
+      </div>
+    </nav>
+
+    <!-- meny-->
+    <nav class="menu">
+    <div class="topnav" id="myTopnav">      {{ $currentPage := . }}      {{ range .Site.Menus.main }}          {{ if .HasChildren }}
+      <div class="dropdown">
+        <button class="dropbtn">{{ .Name }}
+          <i class="fa fa-caret-down"></i>
+        </button>
+        <div class="dropdown-content">          {{ range .Children }}
+          <a href="{{ .URL }}">{{ .Name }}</a>          {{ end }}
+        </div>
+      </div>      {{ else }}
+        <a href="{{ .URL }}">{{ .Name }}</a>      {{ end }}      {{ end }}
+      </div>
+    </div>
+  </nav>
+

@@ -4,7 +4,7 @@ date: "2016-04-25"
 categories: 
   - "fritanke"
   - "varlden"
-coverImage: "pakistan.jpg"
+images: ["/images/pakistan.jpg"]
 ---
 
 Festligheter i Islamabad, turism i Lahore. God mat och trevliga människor.

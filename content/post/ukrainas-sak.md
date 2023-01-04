@@ -4,15 +4,14 @@ date: "2022-06-18"
 categories: 
   - "europa"
   - "ideologi"
+images: ["/images/2022-05_Ukrainas_sak_A5-564x800.jpg"]
 ---
-
-[![](images/2022-05_Ukrainas_sak_A5-564x800.jpg)](https://kaj.arno.fi/wp-content/uploads/2022/06/2022-05_Ukrainas_sak_A5.pdf)
 
 [En 48-sidig PDF-fil](https://kaj.arno.fi/wp-content/uploads/2022/06/2022-05_Ukrainas_sak_A5.pdf) – [Ett tal i Nagu kyrka](https://www.youtube.com/watch?v=VarF_VVckEE)
 
 _Petrus Schroderus' konsert i Nagu kyrka 12.6.2022_
 
-![](images/kaj_ukraina_maidan-600x800.jpg)
+![](/images/kaj_ukraina_maidan-600x800.jpg)
 
 _På Majdan i Kiev 25.8.2000_ 
 

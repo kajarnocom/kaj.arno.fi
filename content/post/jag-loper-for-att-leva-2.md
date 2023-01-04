@@ -4,7 +4,7 @@ date: "2016-06-26"
 categories: 
   - "idrottshedonism"
   - "springa"
-coverImage: "springa.jpg"
+images: ["/images/springa.jpg"]
 ---
 
 Att springa är meditativt, avslappnande och en bra tävling med sig själv

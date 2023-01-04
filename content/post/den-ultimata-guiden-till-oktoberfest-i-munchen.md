@@ -4,7 +4,7 @@ date: "2015-10-26"
 categories: 
   - "fritanke"
   - "tyskland"
-coverImage: "oktoberfest.jpg"
+images: ["/images/oktoberfest.jpg"]
 ---
 
 Praktiska råd: Vilket tält? Vilket öl? Vilken klädsel? Vilket äventyr!

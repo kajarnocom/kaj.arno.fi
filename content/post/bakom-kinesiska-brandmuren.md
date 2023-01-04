@@ -4,7 +4,7 @@ date: "2019-04-23"
 categories: 
   - "it"
   - "mariadb"
-coverImage: "brandmuren-1.jpg"
+images: ["/images/brandmuren-1.jpg"]
 ---
 
 En lovsång med dissonanser, om de IT-självförsörjande kinesernas låga förväntningar på européers bildning, om Huawei, Alibaba, Tencent och bristen på finlandssvenskt Nobelpris i IT
