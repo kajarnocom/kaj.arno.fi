@@ -10,6 +10,9 @@ tags:
   - "csu"
   - "munchen"
 images: ["/images/soder.jpg"]
+medium: "Forum"
+onward_url: "https://www.forum-mag.fi/vand-blicken-mot-soder/"
+
 ---
 
 Habeck mot Söder i nästa Bundestagswahl? En realistisk vision. Absolut inget mardrömsscenario!
