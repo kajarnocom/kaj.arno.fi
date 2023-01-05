@@ -152,3 +152,10 @@ paginate = 100
     identifier = 'ukraina'
     parent = 'om1'
     weight = 2
+
+    [[menu.main]]
+    name = 'Nagu'
+    url = '/nagu/'
+    identifier = 'nagu'
+    parent = 'om1'
+    weight = 3
