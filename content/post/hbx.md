@@ -10,6 +10,7 @@ tags:
   - "foss"
   - "indonesien"
 images: ["/images/hbx.jpg"]
+medium: "Forum"
 onward_url: "https://www.forum-mag.fi/pa-audiens-hos-kung-hb-x/"
 ---
 

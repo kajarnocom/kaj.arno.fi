@@ -27,8 +27,8 @@
 
 {{ .Content }}
 
-{{ with .Params.onward_url }}
-  <a href="{{.}}" target="_blank">Läs hela artikeln</a>
+{{ if .Params.onward_url }}
+  <b>Läs hela artikeln</b> i <a href="{{ .Params.onward_url }}" target="_blank">{{ .Params.medium }}</a>
 {{ end }}
 </main>
 
