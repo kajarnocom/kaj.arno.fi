@@ -29,18 +29,30 @@
     </nav>
 
     <!-- meny-->
-    <nav class="menu">
-    <div class="topnav" id="myTopnav">      {{ $currentPage := . }}      {{ range .Site.Menus.main }}          {{ if .HasChildren }}
-      <div class="dropdown">
-        <button class="dropbtn">{{ .Name }}
-          <i class="fa fa-caret-down"></i>
-        </button>
-        <div class="dropdown-content">          {{ range .Children }}
-          <a href="{{ .URL }}">{{ .Name }}</a>          {{ end }}
-        </div>
-      </div>      {{ else }}
+
+      <div class="topnav" id="myTopnav">      
+        <a href="/" class="active">Meny</a>    {{ $currentPage := . }}      {{ range .Site.Menus.main }}          {{ if .HasChildren }}
+        <div class="dropdown">
+          <button class="dropbtn">{{ .Name }}
+            <i class="fa fa-caret-down"></i>
+          </button>
+          <div class="dropdown-content">          {{ range .Children }}
+            <a href="{{ .URL }}">{{ .Name }}</a>          {{ end }}
+          </div>
+        </div>      {{ else }}
         <a href="{{ .URL }}">{{ .Name }}</a>      {{ end }}      {{ end }}
+        <a href="javascript:void(0);" class="icon" onclick="myFunction()">&#9776;</a>
       </div>
-    </div>
-  </nav>
+
+
+    <script>
+      function myFunction() {
+        var x = document.getElementById("myTopnav");
+        if (x.className === "topnav") {
+          x.className += " responsive";
+        } else {
+          x.className = "topnav";
+        }
+      }
+      </script>
 
