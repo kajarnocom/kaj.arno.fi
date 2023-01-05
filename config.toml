@@ -7,7 +7,7 @@ paginate = 100
 
 [permalinks]
   post = '/:filename/'
-  categories = "/:title/"
+  categories = "/k/:title/"
 
 [params]
   description = "Kaj Arnö - IT-företagare. Idrottshedonist. Fritänkare."
@@ -32,21 +32,21 @@ paginate = 100
 
     [[menu.main]]
     name = 'MariaDB'
-    url = '/mariadb/'
+    url = '/k/mariadb/'
     identifier = 'mariadb'
     parent = 'it'
     weight = 1
 
     [[menu.main]]
     name = 'MySQL'
-    url = '/mysql/'
+    url = '/k/mysql/'
     identifier = 'mysql'
     parent = 'it'
     weight = 2
 
     [[menu.main]]
     name = 'Medier'
-    url = '/medier/'
+    url = '/k/medier/'
     identifier = 'medier'
     parent = 'it'
     weight = 3
@@ -59,21 +59,21 @@ paginate = 100
 
     [[menu.main]]
     name = 'Springa'
-    url = '/springa/'
+    url = '/k/springa/'
     identifier = 'springa'
     parent = 'idrottshedonism'
     weight = 1
 
     [[menu.main]]
     name = 'Paddla'
-    url = '/paddla/'
+    url = '/k/paddla/'
     identifier = 'paddla'
     parent = 'idrottshedonism'
     weight = 2
 
     [[menu.main]]
     name = 'Yoga'
-    url = '/yoga/'
+    url = '/k/yoga/'
     identifier = 'yoga'
     parent = 'idrottshedonism'
     weight = 3
@@ -86,49 +86,49 @@ paginate = 100
 
     [[menu.main]]
     name = 'Projekt Fredrika'
-    url = '/projekt-fredrika/'
+    url = '/k/projekt-fredrika/'
     identifier = 'projekt-fredrika'
     parent = 'fritanke'
     weight = 1
 
     [[menu.main]]
     name = 'Nagu'
-    url = '/nagu/'
+    url = '/k/nagu/'
     identifier = 'nagu'
     parent = 'fritanke'
     weight = 2
 
     [[menu.main]]
     name = 'Tyskland'
-    url = '/tyskland/'
+    url = '/k/tyskland/'
     identifier = 'tyskland'
     parent = 'fritanke'
     weight = 3
 
     [[menu.main]]
     name = 'München'
-    url = '/munchen/'
+    url = '/k/munchen/'
     identifier = 'munchen'
     parent = 'fritanke'
     weight = 4
 
     [[menu.main]]
     name = 'Politik'
-    url = '/politik/'
+    url = '/k/politik/'
     identifier = 'politik'
     parent = 'fritanke'
     weight = 5
 
     [[menu.main]]
     name = 'Musik'
-    url = '/musik/'
+    url = '/k/musik/'
     identifier = 'musik'
     parent = 'fritanke'
     weight = 6
 
     [[menu.main]]
     name = 'Frihet'
-    url = '/frihet/'
+    url = '/k/frihet/'
     identifier = 'frihet'
     parent = 'fritanke'
     weight = 7
