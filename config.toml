@@ -159,3 +159,10 @@ paginate = 100
     identifier = 'nagu'
     parent = 'om1'
     weight = 3
+
+    [[menu.main]]
+    name = 'Nato'
+    url = '/nato/'
+    identifier = 'nato'
+    parent = 'om1'
+    weight = 4
