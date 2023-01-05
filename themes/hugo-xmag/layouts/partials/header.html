@@ -13,7 +13,7 @@
 
   <body{{if .IsPage}} class="page"{{ end }}>
     
-    <nav class="header">
+    <div class="header">
           <div class="banner">
             <div class="wrapper">
               <div class="imgwrapper">
@@ -26,10 +26,10 @@
             </div>
           </div>
       </div>
-    </nav>
+    </div>
 
     <!-- meny-->
-
+    <nav class="menu">
       <div class="topnav" id="myTopnav">      
         <a href="/" class="active">Meny</a>    {{ $currentPage := . }}      {{ range .Site.Menus.main }}          {{ if .HasChildren }}
         <div class="dropdown">
@@ -43,7 +43,7 @@
         <a href="{{ .URL }}">{{ .Name }}</a>      {{ end }}      {{ end }}
         <a href="javascript:void(0);" class="icon" onclick="myFunction()">&#9776;</a>
       </div>
-
+    </nav>
 
     <script>
       function myFunction() {
