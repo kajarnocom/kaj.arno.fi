@@ -32,11 +32,9 @@
 {{ end }}
 
 {{ with .Params.images }}
-  {{ with index . 1 }}
+  {{ with replace (index . 0) ".jpg" "-b.jpg" }}
     {{ with resources.Get . }}
       <img src="{{ .RelPermalink }}" width="{{ 600 }}" alt="">
-    {{ else }}
-      {{ errorf "Unable to find image %s" . }}
     {{ end }}
   {{ end }}
 {{ end }}
