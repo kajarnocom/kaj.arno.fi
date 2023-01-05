@@ -26,6 +26,10 @@
 {{ end }}
 
 {{ .Content }}
+
+{{ with .Params.onward_url }}
+  <a href="{{.}}" target="_blank">Läs hela artikeln</a>
+{{ end }}
 </main>
 
 {{ partial "prev_next.html" . }}
