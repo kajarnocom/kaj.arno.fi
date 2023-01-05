@@ -10,6 +10,7 @@ tags:
   - "foss"
   - "indonesien"
 images: ["/images/hbx.jpg"]
+onward_url: "https://www.forum-mag.fi/pa-audiens-hos-kung-hb-x/"
 ---
 
 MariaDB i Indonesien: En medeltida och modern audiens i Yogyakarta, hos konungen av Java
