@@ -19,12 +19,6 @@ paginate = 100
 [menu]
 
   [[menu.main]]
-  name = 'Kaj Arnö'
-  url = '/'
-  identifier = 'kaj-arno'
-  weight = 1
-
-  [[menu.main]]
   name = 'IT'
   url = '/it/'
   identifier = 'it'
