@@ -3,7 +3,7 @@
 <article>
   <div class="categories">
   {{ range $i, $e := .Params.categories }}
-    {{ if $i }} &hercon; {{ end }}<a href="{{ relURL (print "/" $e | urlize) }}">{{ $e }}</a>
+    {{ if $i }} &hercon; {{ end }}<a href="{{ relURL (print "/k/" $e | urlize) }}">{{ $e }}</a>
   {{ end }}
 </div>
 

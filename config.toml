@@ -12,9 +12,9 @@ paginate = 100
 [params]
   description = "Kaj Arnö - IT-företagare. Idrottshedonist. Fritänkare."
   images = ['/cropped-2018-05-21_IMG_7781-6.jpg']
-  footer = "&copy; Kaj Arnö 2022 | [Twitter](https://twitter.com/kajarno) | [Facebook](https://facebook.com/kajarno) | [LinkedIn](https://linkedin.com/in/kajarno) | [Instagram](https://instagram.com/kajarno)"
-  summary_length = 300
-  favicon = "/favicon.jpeg"
+  footer = "&copy; Kaj Arnö 2023 | [Twitter](https://twitter.com/kajarno) | [Facebook](https://facebook.com/kajarno) | [LinkedIn](https://linkedin.com/in/kajarno) | [Instagram](https://instagram.com/kajarno)"
+  summary_length = 250
+  favicon = "/favicon.ico"
 
 [menu]
 
