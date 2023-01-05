@@ -132,3 +132,23 @@ paginate = 100
     identifier = 'frihet'
     parent = 'fritanke'
     weight = 7
+	
+  [[menu.main]]
+  name = 'Om'
+  url = '/om/'
+  identifier = 'om1'
+  weight = 5
+
+    [[menu.main]]
+    name = 'Kaj'
+    url = '/om/'
+    identifier = 'om'
+    parent = 'om1'
+    weight = 1
+
+    [[menu.main]]
+    name = 'Ukraina'
+    url = '/ukraina/'
+    identifier = 'ukraina'
+    parent = 'om1'
+    weight = 2
