@@ -46,7 +46,7 @@ paginate = 100
     weight = 3
 
   [[menu.main]]
-  name = 'Idrottshedonism'
+  name = 'Idrott'
   url = '/idrottshedonism/'
   identifier = 'idrottshedonism'
   weight = 3
