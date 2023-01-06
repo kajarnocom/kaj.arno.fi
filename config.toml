@@ -168,9 +168,17 @@ paginate = 100
     parent = 'om1'
     weight = 5
 
+
+    [[menu.main]]
+    name = 'Teknologföreningen'
+    url = '/tf/'
+    identifier = 'tf'
+    parent = 'om1'
+    weight = 6
+
     [[menu.main]]
     name = 'Nato'
     url = '/nato/'
     identifier = 'nato'
     parent = 'om1'
-    weight = 6
+    weight = 7
