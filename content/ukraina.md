@@ -2,6 +2,7 @@
 title: "Ukraina"
 date: "2022-03-04"
 images: ["/images/ukraina.png"]
+aliases: [/man/kan/ha/hojsiga/redirectar, /ukraine/	]
 make_image_small: "Yes"
 ---
 
