@@ -69,4 +69,4 @@ De första skriverierna är från 2018, efter ett besök i Lemberg. Direkta skri
 
 ### 2018-04
 
-23. [Kaj Arnö: **Kalla den vad du vill, Lviv, Lwów eller Lemberg – i den ukrainska staden har minoriteter levt sida vid sida i hundratals år**](https://svenska.yle.fi/artikel/2018/04/29/kaj-arno-kalla-den-vad-du-vill-lviv-lwow-eller-lemberg-i-den-ukrainska-staden-har) (Svenska Yle 29.4.2018) – Russian version by **inosmi.ru**, (122 comments, 39519 views) [Называйте его как хотите, Львив, Львов или Лемберг: в этом украинском городе меньшинства всегда жили бок о бок](https://inosmi.ru/20180513/242195236.html)
+23. [Kaj Arnö: **Kalla den vad du vill, Lviv, Lwów eller Lemberg – i den ukrainska staden har minoriteter levt sida vid sida i hundratals år**](https://svenska.yle.fi/artikel/2018/04/29/kaj-arno-kalla-den-vad-du-vill-lviv-lwow-eller-lemberg-i-den-ukrainska-staden-har) (Svenska Yle 29.4.2018) – Russian version by **inosmi.ru**, (122 comments, 45371 views) [Называйте его как хотите, Львив, Львов или Лемберг: в этом украинском городе меньшинства всегда жили бок о бок](https://inosmi.ru/20180513/242195236.html)
