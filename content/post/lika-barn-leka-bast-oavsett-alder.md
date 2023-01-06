@@ -5,7 +5,7 @@ categories:
   - "frihet"
   - "fritanke"
 images: ["/images/likabarn.jpg"]
-medium: "Forum"
+medium: "svenska Yle"
 onward_url: "https://svenska.yle.fi/artikel/2020/01/18/kaj-arno-onodigast-ar-polariseringen-mellan-aldersgrupper"
 
 ---
