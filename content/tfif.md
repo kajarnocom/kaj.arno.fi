@@ -1,12 +1,10 @@
 ---
 title: "TFiF"
 date: "2023-01-06"
-images: ["/images/tfif.jpg"]
+images: ["/images/tfif.png"]
 ---
 
-{{ $image := resources.Get "images/tfif.jpg" }}
-{{ $image := $image.Resize "150x" }}
-<img src="{{ $image.RelPermalink }}" width="{{ $image.Width }}" height="{{ $image.Height }}">
+Tekniska Föreningen i Finlands medlemstidning publiceras på [TFiF.fi](https://tfif.fi). Här är Kajs TFiF-kolumner, sedan början av 2022 (efter att Affärsmagasinet Forum nedlades 2021).
 
 ### Om _Affärsmagasinet Forum_
 
