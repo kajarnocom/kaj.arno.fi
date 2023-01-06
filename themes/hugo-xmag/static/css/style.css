@@ -178,12 +178,35 @@ pre code {
 }
 
 /* misc elements */
-img, iframe, video { max-width: 100%; }
 blockquote {
   background: #f9f9f9;
   border-left: 5px solid #ccc;
   padding: 3px 1em 3px;
 }
+
+img, iframe, video { max-width: 100%; }
+img[src$='#center']
+{
+    display: block;
+    margin: 0.7rem auto; /* you can replace the vertical '0.7rem' by
+                            whatever floats your boat, but keep the
+                            horizontal 'auto' for this to work */
+    /* se mer http://www.ebadf.net/2016/10/19/centering-images-in-hugo/#the-solution */
+}
+
+img[src$='#floatleft']
+{
+    float:left;
+    margin: 0.7rem;      /* this margin is totally up to you */
+}
+
+img[src$='#floatright']
+{
+    float:right;
+    margin: 0.7rem;      /* this margin is totally up to you */
+}
+
+
 
 table {
   margin: 1em auto auto;
@@ -231,10 +254,6 @@ tr:nth-child(even) { background: #eee }
 
 
 
-
-
-
-
 /* Add a black background color to the top navigation */
 .topnav {
   #background-color: rgb(255, 255, 255);
@@ -265,7 +284,7 @@ tr:nth-child(even) { background: #eee }
 
 /* Dropdown container - needed to position the dropdown content */
 .dropdown {
-  float: left;
+  float: right;
   overflow: hidden;
 }
 

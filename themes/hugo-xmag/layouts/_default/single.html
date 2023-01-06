@@ -15,12 +15,24 @@
 <h1><span class="title">{{ .Title }}</span></h1>
 
 <main>
-{{ with .Params.images }}
-  {{ with index . 0 }}
-    {{ with resources.Get . }}
-      <img src="{{ .RelPermalink }}" width="{{ .Width }}" alt="">
-    {{ else }}
-      {{ errorf "Unable to find image %s" . }}
+{{ if .Params.make_image_small }}
+  {{ with .Params.images }}
+    {{ with index . 0 }}
+      {{ with resources.Get . }}
+        <img src="{{ .RelPermalink }}" width="{{ 300 }}" alt="" align="right">
+      {{ else }}
+        {{ errorf "Unable to find image %s" . }}
+      {{ end }}
+    {{ end }}
+  {{ end }}
+{{ else }}
+  {{ with .Params.images }}
+    {{ with index . 0 }}
+      {{ with resources.Get . }}
+        <img src="{{ .RelPermalink }}" width="{{ .Width }}" alt="">
+      {{ else }}
+        {{ errorf "Unable to find image %s" . }}
+      {{ end }}
     {{ end }}
   {{ end }}
 {{ end }}
@@ -31,10 +43,12 @@
   <b>Läs hela artikeln</b> i <a href="{{ .Params.onward_url }}" target="_blank">{{ .Params.medium }}</a><br/><br/>
 {{ end }}
 
-{{ with .Params.images }}
-  {{ with replace (index . 0) ".jpg" "-b.jpg" }}
-    {{ with resources.Get . }}
-      <img src="{{ .RelPermalink }}" width="{{ 600 }}" alt="">
+{{ if not .Params.make_image_small }}
+  {{ with .Params.images }}
+    {{ with replace (index . 0) ".jpg" "-b.jpg" }}
+      {{ with resources.Get . }}
+        <img src="{{ .RelPermalink }}" width="{{ 600 }}" alt="">
+      {{ end }}
     {{ end }}
   {{ end }}
 {{ end }}

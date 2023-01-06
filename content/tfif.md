@@ -2,7 +2,11 @@
 title: "TFiF"
 date: "2023-01-06"
 images: ["/images/tfif.png"]
+make_image_small: "Yes"
 ---
+
+<!-- ![TFiF-bild](/images/tfif.png#floatright) -->
+<!-- http://www.ebadf.net/2016/10/19/centering-images-in-hugo/#the-solution -->
 
 Tekniska Föreningen i Finlands medlemstidning publiceras på [TFiF.fi](https://tfif.fi). Här är Kajs TFiF-kolumner, sedan början av 2022 (efter att Affärsmagasinet Forum nedlades 2021).
 
