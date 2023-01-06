@@ -5,7 +5,7 @@ images: ["/images/au.png"]
 make_image_small: "Yes"
 ---
 
-Efter en träff med Torbjörn "Nalle" Kevin hos Ralf och Pia Danielsson på Lökholm kontaktade Kaj ÅU:s chefred. Tom Simola på höstkvisten 2020. Sedan dess har **Mårten Mickos** (https://abounderrattelser.fi/tag/marten-mickos/) och Kaj (https://abounderrattelser.fi/tag/kaj-arno/) skrivit spalter i ÅU.
+Efter en träff med Torbjörn "Nalle" Kevin hos Ralf och Pia Danielsson på Lökholm kontaktade Kaj ÅU:s chefred. Tom Simola på höstkvisten 2020. Sedan dess har jag skrivit [spalter i ÅU](https://abounderrattelser.fi/tag/kaj-arno/), i celebert sällskap av bl.a. [Mårten Mickos](https://abounderrattelser.fi/tag/marten-mickos/) och [Timo Ketonen](https://abounderrattelser.fi/tag/timo-ketonen/).
 
 ### Idrottshedonism
 
