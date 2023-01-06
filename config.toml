@@ -46,7 +46,7 @@ paginate = 100
     weight = 3
 
   [[menu.main]]
-  name = 'Idrott'
+  name = 'Idrottshedonism'
   url = '/idrottshedonism/'
   identifier = 'idrottshedonism'
   weight = 3
@@ -153,6 +153,13 @@ paginate = 100
     identifier = 'nagu'
     parent = 'om1'
     weight = 3
+
+    [[menu.main]]
+    name = 'TFiF'
+    url = '/tfif/'
+    identifier = 'tfif'
+    parent = 'om1'
+    weight = 4
 
     [[menu.main]]
     name = 'Nato'
