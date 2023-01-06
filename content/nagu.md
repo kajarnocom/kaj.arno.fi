@@ -1,6 +1,8 @@
 ---
 title: "Nagu"
 date: "2023-01-05"
+images: ["/images/nagu.png"]
+make_image_small: "Yes"
 ---
 
 1. **[Nagu, världens medelpunkt](https://abounderrattelser.fi/nagu-varldens-medelpunkt/)** (Åbo Underrättelser 13.11.2020)
