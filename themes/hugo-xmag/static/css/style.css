@@ -46,31 +46,33 @@ main { margin-bottom: 15px; }
 .imgwrapper{
 flex: 1;
 text-align: right;
-#border: 1px solid blue;
 margin: 0;
 padding: 0;
+min-width: 100px;
 }
 .titlewrapper{
+display:block;
 text-align: left;
 flex: 5;
-#border: 1px solid red;
 margin: 0;
 padding: 0;
 }
 .titlemain{
+display:block;
 font-size:0.6em;
 line-height: 0.4em;
 text-transform: uppercase;
 font-family: "Libre Franklin", "Helvetica Neue", helvetica, arial, sans-serif;
 font-weight: 800;
-line-height: 0.5;
+line-height: 0.9;
 letter-spacing: 0.08em;
 margin: 0;
 padding: 0;
 }
 .subtitlemain{
+display:block;
 font-size:0.3em;
-line-height: 0.2em;
+line-height: 1em;
 margin: 0;
 padding: 0;
 }
