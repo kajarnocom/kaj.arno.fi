@@ -27,6 +27,8 @@ Tekniska Föreningen i Finlands medlemstidning publiceras på [TFiF.fi](https://
 
 4. **Finlandssvenska tekniker** (https://tfif.fi/finlandssvenska-tekniker/) 10.05.2022.    
    _Är bokserien ”Finlandssvenska tekniker” dig obekant, är det hög tid att ändra på saken. Plöjer du igenom denna inlaga, blir du klok på vad TFiF har att göra med hamnen i Mariupol och attentatet mot tsar Alexander III den 29.10.1888, i Borki utanför Charkiv. Orterna spelar en roll inte bara i dagsnyheterna, utan i  TFiF:ens digitaliseringsprojekt (https://sv.wikipedia.org/wiki/Wikipedia:Projekt_Fredrika/Finlandssvenska_tekniker) för bemärkta TFiFare under gångna sekel._ – se [uppföljning 27.12.2022](https://tfif.fi/finlandssvenska-tekniker-erovrar-wikipedia/).
+4. **En minnesruna över en förebild, fux 1949** (https://tfif.fi/en-minnesruna-over-en-forebild-fux-1949/) 28.04.2023
+   _Jämställdheten har nått en lång väg, och i Finland har vi börjat tidigt – med kvinnlig rösträtt 1906. Ibland kan en påminnelse om livets ändlighet ge inspiration och impuls till mer personliga reflexioner kring temat. Jag tillägnar denna spalt min faster **Lisa Charlotta Karlsson**, 10.3.1931-2.4.2023._
 
 ### Om plottrar som exempel på dålig produktutveckling
 
