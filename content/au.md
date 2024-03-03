@@ -38,4 +38,4 @@ Efter en träff med Torbjörn "Nalle" Kevin hos Ralf och Pia Danielsson på Lök
 ### Matematik och IT
 12. **[ChatGPT är inte magi, och struntprat är enkelt att automatisera](https://abounderrattelser.fi/chatgpt-ar-inte-magi-och-struntprat-ar-enkelt-att-automatisera/)** 18.2.2023
 
-Se även artiklar om **[Ukraina](../ukraina)
+Se även artiklar om **[Ukraina](../ukraina)**
