@@ -4,8 +4,8 @@ date: "2023-06-18"
 categories:
   - "nagu"
   - "fritanke"
-images: ["/images/husis_nagu.png"]
-medium: "svenska Yle"
+images: ["/images/husis_nagu.jpg"]
+medium: "Hufvudstadsbladet"
 onward_url: "https://www.hbl.fi/artikel/c03285bf-78c4-4745-a70b-776bfe4c7f1f"
 
 ---
