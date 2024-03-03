@@ -28,7 +28,7 @@ Efter en träff med Torbjörn "Nalle" Kevin hos Ralf och Pia Danielsson på Lök
 
 ### Tyskland
 
-9. **[Finland–Tyskland 7–0 – ”Vem i Finland vet något om Frank-Walter Steinmeier?”](https://abounderrattelser.fi/finland-tyskland-7-0-vem-i-finland-vet-nagot-om-frank-walter-steinmeier/)**15.12.2023
+9. **[Finland–Tyskland 7–0 – ”Vem i Finland vet något om Frank-Walter Steinmeier?”](https://abounderrattelser.fi/finland-tyskland-7-0-vem-i-finland-vet-nagot-om-frank-walter-steinmeier/)** 15.12.2023
 
 ### Ryska
 
