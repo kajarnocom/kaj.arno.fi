@@ -5,7 +5,7 @@ date: "2022-03-05"
 
 1. **Åbo Underrättelser**: [abounderrattelser.fi/tag/kaj-arno/](https://abounderrattelser.fi/tag/kaj-arno/)
 2. Svenska **Yle**: [svenska.yle.fi/t/18-284310](https://svenska.yle.fi/t/18-284310) (artiklar)
-    [arenan.yle.fi/audio/1-50553610](https://arenan.yle.fi/audio/1-50553610) ([../sommarprat](sommarprat))
+    [arenan.yle.fi/audio/1-50553610](https://arenan.yle.fi/audio/1-50553610) ([sommarprat](../sommarprat))
 3. Affärstidningen **Forum**: [forum-mag.fi/kaj-arno](https://www.forum-mag.fi/kaj-arno)
 4. **MariaDB**.org:
     1. [mariadb.org/author/kaj/](https://mariadb.org/author/kaj/)
