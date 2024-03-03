@@ -23,19 +23,19 @@ Efter en träff med Torbjörn "Nalle" Kevin hos Ralf och Pia Danielsson på Lök
 
 ### Nagu och Wikipedia
 
-5. **[Ivriga skribenter fyller Wikipedia med information om Nagu](https://abounderrattelser.fi/ivriga-skribenter-fyller-wikipedia-med-information-om-nagu/)** 29.10.2018
+7. **[Ivriga skribenter fyller Wikipedia med information om Nagu](https://abounderrattelser.fi/ivriga-skribenter-fyller-wikipedia-med-information-om-nagu/)** 29.10.2018
 6. **[Nagu har fått ny synlighet på Wikipedia – projekt Fredrika ska fungera som förebild för Svenskfinland](https://abounderrattelser.fi/nagu-har-fatt-ny-synlighet-pa-wikipedia-projekt-fredrika-ska-fungera-som-forebild-for-svenskfinland/)** 28.5.2019
 
 ### Tyskland
 
-7. **[Finland–Tyskland 7–0 – ”Vem i Finland vet något om Frank-Walter Steinmeier?”](https://abounderrattelser.fi/finland-tyskland-7-0-vem-i-finland-vet-nagot-om-frank-walter-steinmeier/)**15.12.2023
+9. **[Finland–Tyskland 7–0 – ”Vem i Finland vet något om Frank-Walter Steinmeier?”](https://abounderrattelser.fi/finland-tyskland-7-0-vem-i-finland-vet-nagot-om-frank-walter-steinmeier/)**15.12.2023
 
 ### Ryska
 
-7. **[Det ryska Nagu](https://abounderrattelser.fi/det-ryska-nagu/)** 14.2.2021
+10. **[Det ryska Nagu](https://abounderrattelser.fi/det-ryska-nagu/)** 14.2.2021
 8. **[Patriotism i Sankt Petersburg](https://abounderrattelser.fi/patriotism-i-sankt-petersburg/)** 22.6.2021
 
 ### Matematik och IT
-9. **[ChatGPT är inte magi, och struntprat är enkelt att automatisera](https://abounderrattelser.fi/chatgpt-ar-inte-magi-och-struntprat-ar-enkelt-att-automatisera/)** 18.2.2023
+12. **[ChatGPT är inte magi, och struntprat är enkelt att automatisera](https://abounderrattelser.fi/chatgpt-ar-inte-magi-och-struntprat-ar-enkelt-att-automatisera/)** 18.2.2023
 
 Se även artiklar om **[ukraina](Ukraina)
