@@ -9,7 +9,6 @@ make_image_small: "Yes"
 
 1. **[Skärgårdens lockrop: Varför flyttar man från München till Nagu?](https://abounderrattelser.fi/skargardens-lockrop-varfor-flyttar-man-fran-munchen-till-nagu/
 )** (Åbo Underrättelser 18.5.2023)
-
 1. **[Turism är bra för skärgården, inte sant? Inte sant? – ”Nagu har råd att sätta gränser”](https://abounderrattelser.fi/turism-ar-bra-for-skargarden-inte-sant-inte-sant-nagu-har-rad-att-satta-granser/)** (Åbo Underrättelser 23.2.2023)
 
 ### 2022
