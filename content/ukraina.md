@@ -18,7 +18,7 @@ De första skriverierna är från 2018, efter ett besök i Lemberg. Direkta skri
 )** (Åbo Underrättelser 5.8.2023)
 1. **[Reflektioner från ett land i krig: Flyglarm i Lviv](https://abounderrattelser.fi/reflektioner-fran-ett-land-i-krig-flyglarm-i-lviv/
 )** (Åbo Underrättelser 28.7.2023)
-3. **Ukraina – orkar du bry dig?** (https://tfif.fi/kaj-arno-ukraina-orkar-du-bry-dig/) (TFiF-bladet 31.3.2023)
+3. **[Ukraina – orkar du bry dig?](https://tfif.fi/kaj-arno-ukraina-orkar-du-bry-dig/)**  (TFiF-bladet 31.3.2023)
 
 ### 2022-07..12
 5. **[Den ryska faran nådens år 2022](https://abounderrattelser.fi/den-ryska-faran-nadens-ar-2022/)** (Åbo Underrättelser 22.12.2022)
