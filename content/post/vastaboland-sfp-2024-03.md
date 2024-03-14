@@ -1,6 +1,6 @@
 ---
 title: "Tal på Sfp:s i Väståboland årsmöte, Kommunalstugan i Nagu"
-date: "2023-03-14"
+date: "2024-03-14"
 categories:
   - "filosofi"
 images: ["/images/Vastabolands_Sfp_2024-03.jpg"]
