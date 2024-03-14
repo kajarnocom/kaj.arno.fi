@@ -5,6 +5,11 @@ images: ["/images/nagu.png"]
 make_image_small: "Yes"
 ---
 
+
+### 2024
+
+1. **[Vad en halvutböling tror vara intressant för lokalpolitiker](../vastaboland-sfp-2024-03)** (Tal på Sfp:s i Väståboland årsmöte, Kommunalstugan i Nagu 14.3.2024)
+
 ### 2023
 
 1. **[Därför flyttade Kaj Arnö till Nagu efter 20 år i München – ”Paradiset på jorden”](../husis-nagu-flytt)** (HBL 18.6.2023)
