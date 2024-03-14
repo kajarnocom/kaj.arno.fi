@@ -139,7 +139,7 @@ __Helga Framnäsparken__ till den sorts parkering som Nagu tydligen avsåg då m
 
 Det finns ganska mycket plats i Södras parkeringsplats, och så finns det lite väster om kyrkan, och mellan gamla Posten och Lanterna. Hyr det inte-alltför-dammiga området vid Sportplan. Förhandla med Räihäs om utrymme. Och med kyrkliga samfälligheten rörande Prästgården. Märk sedan ut alla tillgängliga parkeringar på nätet och via appar, vilket är det sätt jag har förstått att karavanare hittar sin parkering.
 
-Men framför allt, bygg för allt i världen inte någon karavanparkering alls i Framnäs. Inte tillfälligt, inte permanent. Rentav att tolerera fjolårets parkering är bättre än att göra riskabla, fula och oåterkalleliga ingrepp i Framnäsparken. Framnäsparken är betydligt viktigare än Framnäsparkeringen!
+Men framför allt, bygg för allt i världen inte någon karavanparkering alls i Framnäs. Inte tillfälligt, inte permanent. Rentav att tolerera fjolårets parkering är bättre än att göra riskabla, fula och oåterkalleliga ingrepp i Framnäsparken. __För _Framnäsparken_ är betydligt viktigare än _Framnäsparkeringen_!__
 ### Avslutning
 Nå, nu har halvutbölingen sagt sitt. Lite samhällsutveckling, lite SWOT-analys och lite konservativt trädkramande i eget intresse. Jag vet inte om det här motsvarade din beställning, Ann-Helen, men jag hoppas det var till någon glädje! Och som sagt, tack att ni finns till och att ni orkar jobba fast det säkert är otacksamt att lyssna på folk som klagar.  
 
