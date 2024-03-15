@@ -70,7 +70,7 @@ Samhället minskar på den individuella produktiviteten genom att lägga __börd
 
 Men som helhet beskär oss fel tillämpad it med ett mer komplicerat liv, allt fler inboxar att hålla reda på, allt fler blanketter (onödigt klumpiga att fylla i), allt mer väntan och kötid. 
 
-## SWOT
+## En SWOT-analys för skärgården
 ### SWOT - styrkor
 Så till SWOTen. Här blir jag mer __glad__ till sinnes. Det är alltså min __subjektiva__ analys av styrkor, svagheter, möjligheter och hot för skärgården. Jag säger ofta __Nagu__, för jag känner inte till andra kommundelar, men säkert gäller det mesta även dem.
 
