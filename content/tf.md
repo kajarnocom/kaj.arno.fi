@@ -20,6 +20,8 @@ Jag kom till TF för att ha roligt och umgås med likasinnade. Jag fick intellek
    _Ibland kan man missbruka sina privilegier, i varje fall om ändamålet är gott. Mitt privilegium är att få skriva spalter för TFiF, och ändamålet är Teknologföreningens penninginsamling för sitt nya hus i Otnäs. Och mitt missbruk är att väcka ditt intresse, klämma på ditt samvete och be dig lätta på din penningpung eller ditt aktieinnehav._
 
 ### Årsfesttal
+3. **[Årsfesttal på TF:s 152-årsfest](../tf-152/)** 16.03.2024
+   _Ett ode till nyfikenheten: Hur fungerar världen?_
 
 1. **[Årsfesttal på TLK 107-årsfest](../tlk-107/)** 01.03.2024
    _Åtta råd jag hade bort få höra då jag själv var studerande: Gör lagom klart för dig vad du vill. Bli inte företagare för tidigt. Välj din chef noga. Tolerera motstridiga tankar. Odla olikhet (trivs i grupper som inte är homogena). Använd inte dig själv som måttstock för att döma andra. Tänk själv och gör dig inte avundsjuk genom att i onödan jämföra dig med andra. Ta hand om din kropp._
