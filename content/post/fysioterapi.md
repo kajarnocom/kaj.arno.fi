@@ -21,3 +21,4 @@ make_image_small: "Yes"
 ### Håkan Alfredson Protocol
 
 6. 04:57 (2.625 / 163.521) **[Alfredson Achilles Tendinopathy Rehab Protocol](https://www.youtube.com/watch?v=fHHbn_Odk4E)** (Physiotutors 23.9.2019)
+7. 08:06 (4.518 / 210.910) **[Why Common Achilles Tendonitis Treatment FAILS (and 3 exercises to do)](https://www.youtube.com/watch?v=kpdVfxgvkJs)** (Precision Movement 9.4.2019)
