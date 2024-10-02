@@ -16,6 +16,11 @@ paginate = 100
   summary_length = 250
   favicon = "/favicon.ico"
 
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
 [menu]
 
   [[menu.main]]
@@ -126,7 +131,7 @@ paginate = 100
     identifier = 'frihet'
     parent = 'fritanke'
     weight = 7
-	
+
   [[menu.main]]
   name = 'Om'
   url = '/om/'
