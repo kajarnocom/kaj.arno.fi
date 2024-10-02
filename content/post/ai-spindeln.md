@@ -79,14 +79,33 @@ Ett exempel som togs upp inom hälsovårdssektorn var en äldrevårdsrobot som s
 
 Goda exempel på resursrika instanser var företrädda på AI-dagen. Johanna Törn-Mangs på Svenska Yle sitter på enormt värdefullt material, både vad kvalitet och kvantitet beträffar. Dessutom är materialet redan långt digitaliserat och kategoriserat med Wikidata. Men också många andra instanser kan mata draken så den förstår sig på det svenska Finland: de stora tidningshusen (HBL, VBL, ÅU), de stora förlagen (S&S, Förlaget M), universiteten och högskolorna (HU, ÅA, Hanken, Aalo, Arcada, Novia).
 
-Jag noterar att Svenska Litteratursällskap redan börjat visa vägen, via _Ett gott parti_.
+Jag noterar med glädje att **Svenska Litteratursällskapet** redan börjat visa vägen, via _Ett gott parti_.
 
+### Diskussionen inom »Konst, kultur och media»
 
+Upplägget med att blanda kortleken var sällsynt lyckat, både _mellan_ de fyra grupperna och _inom_ dem. _Jonas Rak_ från *Novia* hade inom »Konst, kultur och media» påtalat hur vilsna Novias förstaårsstuderande är, då AI verkar kunna spy ut bättre bilder och historier automatiskt, än de studerande med möda kan göra med "konventionella" IT-verktyg.
 
+Vår delgrupp spann vidare på detta. Säg nu åt ettorna att allmänbildning om konst, musik och kultur är fullständigt nödvändig för att de ska kunna definiera målet och skriva en bra prompt. Annars kan ingen styra AI att göra det "kreativa" arbete som behövs. Var och en kan som människa positionera sig själv smart, med möjligheter att "uppträda lajv" med just sina egna färdigheter och sin egen mänskliga profil.
 
+### Vårt önskemål till Kulturfonden: Bli spindeln i AI-nätet!
 
+Det är alltid vågat att tala i första person pluralis. I vems namn framför jag "våra" önskemål? Jag strävar här att i skrift nedteckna slutsatsen av diskussionen inom »Konst, kultur och media», vad beträffar behovet av ett AI-nätverk, för att stärka kompetensen inom AI.
+
+I vår grupp var svaret **ett rungande ja**: visst behöver vi ett AI-nätverk inom det svenska Finland. Nätverket kan gärna bygga vidare på den nu inledda dialogen, och komplettera med **Tekniska Föreningen i Finland**s AI-initiativ. under året. Fysiska sammankomster behövs ibland, och under gårdagen var jag säkert inte ensam om att avtala ett antal mindre möten.
+
+Sören Lillkung frågade i avslutningen _hur Kulturfonden kan bidra till att det svenska Finland ska bli bra på AI?_, med den explicita frågan _Vad kunde vara nästa steg?_
+
+Mitt svar är tudelat. För det första: **Ordna ett uppföljande evenemang på samma plats i mars 2025**. Månne inte nästan alla hundra deltagare lärde sig en massa av värde om vad grannen och kollegan håller på med, fick nya infallsvinklar och uppslag till projekt.
+
+För det andra: **Bilda ett AI-råd för det svenska Finland**, till vilket ni inbjuder ett knappt dussintal aktörer ni själva finner viktiga. Linda Mannila verkade beklaga att hennes AI-rapport för Magma 2019 inte följdes upp så mycket som varit att önska. Detta AI-råd kunde vara svaret.
+
+Det kunnande som Kulturfonden samlade på Epicenter kan säkert föra tanken vidare och prioritera konkreta initiativ. Jag har känslan att det kan finnas mer *bang for the buck* (pardon my French) för det svenska i Finland med lite "**decentraliserad toppstyrning**", som komplement till alla de gräsrotsinitiativ som annars når Kulturfonden.
+
+Ett paradexempel på en dylik lyckad toppstyrning av Kulturfondens satsningar är existensen av den svenska AI-professuren vid HU som Linda Mannila nu besitter.
+
+Hatten av för både Kulturfonden och Linda Mannila, och stort tack till alla som jag hade glädjen att få diskutera med igår på Epicenter i Helingfors!
 
 [Se YouTube-video](https://youtu.be/qBC4sa-aKJQ) (längd 2:30)
 
 <img src="/Kulturfonden_AI_8.jpg" alt="Ritning"/>
-
+*Robert Silén och Kaj Arnö*
