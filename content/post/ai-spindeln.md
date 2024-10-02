@@ -14,6 +14,8 @@ Ett stort tack till Svenska Kulturfonden som igår 1.10.2024 ordnade en dag på 
 
 Vi välkomnades av *Sören Lillkung* ("AJ", Kulturfondens VD) och *Berndt-Johan Lindström* ("BJ", ledande ombudsman för utbildning) som "berättade om AI" och i duettform föredrog en ChatGPT-genererad förklaring om varför AI är relevant för det svenska i Finland. Förklaringen var mycket trovärdig; min misstanke är att ChatGPT tränats på professor Linda Mannilas rapport från 2019, om AI och det svenska Finland.
 
+<img src="/images/Kulturfonden_AI_1.jpg" alt="Ritning" width="200"/>
+
 Grunden för dagen lades sedan av Linda Mannila själv, i dialog med Yvonne Backholm-Nyberg. Linda innehar den av Kulturfonden finansierade svenska AI-professuren vid Helsingfors Universitet, Yvonne är verksamhetschef vid Åbo Akademis Experience Lab i Vasa.
 
 Efter det vidtog tre minuter långa blixttal i prydlig alfabetisk ordning
