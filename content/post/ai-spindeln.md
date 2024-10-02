@@ -110,4 +110,5 @@ Ett paradexempel på en dylik lyckad toppstyrning av Kulturfondens satsningar ä
 [Se YouTube-video](https://youtu.be/qBC4sa-aKJQ) (längd 2:30)
 
 <img src="/Kulturfonden_AI_8.jpg" alt="Ritning"/>
-*Robert Silén och Kaj Arnö*
+
+*Robert Silén och Kaj Arnö på Epicenter 1.10.2024*
