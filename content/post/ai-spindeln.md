@@ -6,7 +6,7 @@ categories:
 images: ["/images/Kulturfonden_AI_YouTube.jpg"]
 ---
 
-<img src="/Kulturfonden_AI_1.jpg" alt="Ritning" width="400" align="right" style="margin:30px 30px"/>
+<img src="/Kulturfonden_AI_1.jpg" alt="Scenen på Epicenter" width="400" align="right" style="margin:30px 30px"/>
 
 [Se YouTube-video](https://youtu.be/qBC4sa-aKJQ) (längd 2:30)
 
@@ -16,7 +16,7 @@ Ett stort tack till Svenska Kulturfonden som igår 1.10.2024 ordnade en dag på 
 
 Vi välkomnades av *Sören Lillkung* ("AJ", Kulturfondens VD) och *Berndt-Johan Lindström* ("BJ", ledande ombudsman för utbildning) som "berättade om AI" och i duettform föredrog en ChatGPT-genererad förklaring om varför AI är relevant för det svenska i Finland. Förklaringen var mycket trovärdig; min misstanke är att ChatGPT tränats på professor Linda Mannilas rapport från 2019, om AI och det svenska Finland.
 
-<img src="/Kulturfonden_AI_2.jpg" alt="Ritning" width="400" align="left" style="margin:30px 30px"/>
+<img src="/Kulturfonden_AI_2.jpg" alt="Yvonne och Linda" width="400" align="left" style="margin:30px 30px"/>
 
 Grunden för dagen lades sedan av Linda Mannila själv, i dialog med Yvonne Backholm-Nyberg. Linda innehar den av Kulturfonden finansierade svenska AI-professuren vid Helsingfors Universitet, Yvonne är verksamhetschef vid Åbo Akademis Experience Lab i Vasa.
 
@@ -43,7 +43,7 @@ Som brukligt är sammanfattade grupperna sina tankar under en gemensam diskussio
 
 ### Min inlaga: Låt oss använda AI för att påverka AI
 
-<img src="/Kulturfonden_AI_YouTube.jpg" alt="Ritning" width="400" align="right" style="margin:30px 30px"/>
+<img src="/Kulturfonden_AI_YouTube.jpg" alt="YouTube-videon" width="400" align="right" style="margin:30px 30px"/>
 
 [Se YouTube-video](https://youtu.be/qBC4sa-aKJQ) (längd 2:30)
 
@@ -67,7 +67,7 @@ Jag anförde exemplet *Ett gott parti*, Maria Vainio-Kurtakkos bok om äktenskap
 
 ### Mata AI-draken med det svenska Finland
 
-<img src="/Ett_gott_parti_Edelfelt_Vainio-Kurtakko.jpg" alt="Ritning" width="400" align="right" style="margin:30px 30px"/>
+<img src="/Ett_gott_parti_Edelfelt_Vainio-Kurtakko.jpg" alt="Ett gott parti" width="400" align="right" style="margin:30px 30px"/>
 
 Resonansen jag mötte kring mitt budskap var tudelad.
 
@@ -89,7 +89,9 @@ Vår delgrupp spann vidare på detta. Säg nu åt ettorna att allmänbildning om
 
 ### Vårt önskemål till Kulturfonden: Bli spindeln i AI-nätet!
 
-Det är alltid vågat att tala i första person pluralis. I vems namn framför jag "våra" önskemål? Jag strävar här att i skrift nedteckna slutsatsen av diskussionen inom »Konst, kultur och media», vad beträffar behovet av ett AI-nätverk, för att stärka kompetensen inom AI.
+<img src="/Kulturfonden_AI_5.jpg" alt="YouTube-videon" width="400" align="left" style="margin:30px 30px"/>
+
+Det är alltid vågat att tala i första person pluralis. I vems namn framför jag "våra" önskemål? Jag strävar här att i skrift nedteckna några slutsatser av diskussionen inom »Konst, kultur och media», vad beträffar behovet av ett AI-nätverk, för att stärka kompetensen inom AI.
 
 I vår grupp var svaret **ett rungande ja**: visst behöver vi ett AI-nätverk inom det svenska Finland. Nätverket kan gärna bygga vidare på den nu inledda dialogen, och komplettera med **Tekniska Föreningen i Finland**s AI-initiativ. under året. Fysiska sammankomster behövs ibland, och under gårdagen var jag säkert inte ensam om att avtala ett antal mindre möten.
 
@@ -99,11 +101,11 @@ Mitt svar är tudelat. För det första: **Ordna ett uppföljande evenemang på 
 
 För det andra: **Bilda ett AI-råd för det svenska Finland**, till vilket ni inbjuder ett knappt dussintal aktörer ni själva finner viktiga. Linda Mannila verkade beklaga att hennes AI-rapport för Magma 2019 inte följdes upp så mycket som varit att önska. Detta AI-råd kunde vara svaret.
 
-Det kunnande som Kulturfonden samlade på Epicenter kan säkert föra tanken vidare och prioritera konkreta initiativ. Jag har känslan att det kan finnas mer *bang for the buck* (pardon my French) för det svenska i Finland med lite "**decentraliserad toppstyrning**", som komplement till alla de gräsrotsinitiativ som annars når Kulturfonden.
+Det kunnande som Kulturfonden samlade på Epicenter kan säkert föra tanken vidare och prioritera konkreta initiativ. Jag har känslan att det kan finnas en hel del *bang for the buck* (pardon my French) för det svenska i Finland med lite "**decentraliserad toppstyrning**", som komplement till alla de gräsrotsinitiativ som annars når Kulturfonden.
 
 Ett paradexempel på en dylik lyckad toppstyrning av Kulturfondens satsningar är existensen av den svenska AI-professuren vid HU som Linda Mannila nu besitter.
 
-Hatten av för både Kulturfonden och Linda Mannila, och stort tack till alla som jag hade glädjen att få diskutera med igår på Epicenter i Helingfors!
+**Hatten av för både Kulturfonden och Linda Mannila**, och stort tack till alla som jag hade glädjen att få diskutera med igår på Epicenter i Helingfors!
 
 [Se YouTube-video](https://youtu.be/qBC4sa-aKJQ) (längd 2:30)
 
