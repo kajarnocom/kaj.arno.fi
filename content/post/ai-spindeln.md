@@ -105,7 +105,7 @@ Det kunnande som Kulturfonden samlade på Epicenter kan säkert föra tanken vid
 
 Ett paradexempel på en dylik lyckad toppstyrning av Kulturfondens satsningar är existensen av den svenska AI-professuren vid HU som Linda Mannila nu besitter.
 
-**Hatten av för både Kulturfonden och Linda Mannila**, och stort tack till alla som jag hade glädjen att få träffa igår på Epicenter i Helingfors!
+**Hatten av för både Kulturfonden och Linda Mannila**, och stort tack till alla som jag hade glädjen att få träffa igår på Epicenter i Helsingfors!
 
 [Se YouTube-video](https://youtu.be/qBC4sa-aKJQ) (längd 2:30)
 
