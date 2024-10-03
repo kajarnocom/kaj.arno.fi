@@ -73,7 +73,7 @@ Resonansen jag mötte kring mitt budskap var tudelad.
 
 Å ena sidan rådde **en rörande enighet** om att **AI måste begripa sig på det svenska Finland**. Att AI förstår svenska är en sak, att AI vet något om Finland är en annan sak, och att AI vet något om det svenska Finland är en tredje sak.
 
-Ett exempel som togs upp inom hälsovårdssektorn var en fiktiv äldrevårdsrobot som ska spela musik "från ungdomen". Knappast muntrar Viljo Vesterinen och *Säkkijärven polkka* lika bra upp de ensamma på äldreboendet lika bra som Harry Brandelius och *En gång jag seglar i hamn*, men än bättre vore *Hangövalsen* av Georg Malmstén. Måtte ChatGPT lära sig sol å hav å böljedans, och allt annat som är kulturellt relevant i det svenska Finland.
+Ett exempel som togs upp inom hälsovårdssektorn var en fiktiv äldrevårdsrobot som ska spela musik "från ungdomen". Knappast muntrar Viljo Vesterinen och *Säkkijärven polkka* upp de ensamma på äldreboendet lika bra som Harry Brandelius och *En gång jag seglar i hamn*, men än bättre vore *Hangövalsen* av Georg Malmstén. Måtte ChatGPT lära sig sol å hav å böljedans, och allt annat som är kulturellt relevant i det svenska Finland.
 
 Å andra sidan såg jag **föga beredskap** att vidta de åtgärder som behövs för att "feed the Dragon", att mata AI-draken, som min meddeltagare *Matthias Railo* uttryckte det. De åtgärder som krävs är att antingen göra **omfattande mängder material om det svenska Finland** direkt och öppet tillgängligt i källform, eller att destillera och omarbeta materialet **i aggregerad form på öppen data** (Wikipedia, Wikidata), där det används som huvudsakligt träningsmaterial för de stora, kommersiella språkmodellerna som alla använder.
 
