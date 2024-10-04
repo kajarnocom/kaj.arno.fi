@@ -107,7 +107,10 @@ Ett paradexempel på en dylik lyckad toppstyrning av Kulturfondens satsningar ä
 
 **Hatten av för både Kulturfonden och Linda Mannila**, och stort tack till alla som jag hade glädjen att få träffa igår på Epicenter i Helsingfors!
 
-[Se YouTube-video](https://youtu.be/qBC4sa-aKJQ) (längd 2:30)
+Se även
+- Åbo Underrättelser fre 4.10.2024: [Kulturfonden – spindeln i det svenska Finlands AI-nät?](https://www.abounderrattelser.fi/artikel/kulturfonden-spindeln-i-det-svenska-finlands-ai-nat/)
+- TFiF-bladet fre 4.10.2024: [Spindeln i det svenska Finlands AI-nät: Kulturfonden eller TFiF:en?](https://tfif.fi/spindeln-i-det-svenska-finlands-ai-nat-kulturfonden-eller-tfifen/)
+- YouTube 1.10.24: [Låt oss använda AI för att påverka AI!](https://youtu.be/qBC4sa-aKJQ) (längd 2:30)
 
 <img src="/Kulturfonden_AI_8.jpg" alt="Ritning"/>
 
