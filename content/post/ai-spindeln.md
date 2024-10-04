@@ -18,7 +18,7 @@ Vi välkomnades av *Sören Lillkung* ("AJ", Kulturfondens VD) och *Berndt-Johan 
 
 <img src="/Kulturfonden_AI_2.jpg" alt="Yvonne och Linda" width="400" align="left" style="margin:30px 30px"/>
 
-Grunden för dagen lades sedan av Linda Mannila själv, i dialog med Yvonne Backholm-Nyberg. Linda innehar den av Kulturfonden finansierade svenska AI-professuren vid Helsingfors Universitet, Yvonne är verksamhetschef vid Åbo Akademis Experience Lab i Vasa.
+Grunden för dagen lades sedan av Linda Mannila själv, i dialog med Yvonne Backholm-Nyberg. Linda innehar den av bl.a. Kulturfonden finansierade svenska AI-professuren vid Helsingfors Universitet, Yvonne är verksamhetschef vid Åbo Akademis Experience Lab i Vasa.
 
 Efter det vidtog tre minuter långa blixttal i prydlig alfabetisk ordning
 * Cristina Andersson, konsult, Develor Productions
