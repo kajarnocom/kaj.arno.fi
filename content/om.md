@@ -1,6 +1,6 @@
 ---
 title: "Om (eller mestadels av) Kaj Arnö"
-date: "2022-03-05"
+date: "2022-03-07"
 ---
 
 1. **Åbo Underrättelser**: [abounderrattelser.fi/tag/kaj-arno/](https://abounderrattelser.fi/tag/kaj-arno/)
